@@ -1,2 +1,2 @@
 # hello-world
-I'm learning to use this motherfucker
+I'm learning to use this website
